@@ -1,0 +1,15 @@
+{
+  "name": "deploysh",
+  "version": "1.0.0",
+  "description": "deploying",
+  "main": "index.js",
+  "dependencies":{
+  	 "connect":"*",
+     "serve-static": "*"
+  }
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nur mohammed rony",
+  "license": "MIT"
+}
