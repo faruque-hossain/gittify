@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "async": "latest"
-  }
+  },
   "author": "Nur Rony <pro.nmrony@gmail.com> (https://nurmrony.wordpress.com/)",
   "license": "ISC"
 }
