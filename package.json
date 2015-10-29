@@ -10,7 +10,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "connect": "latest"
+    "connect": "latest",
+    "underscore": "latest"
   },
   "repository": {
     "type": "git",
