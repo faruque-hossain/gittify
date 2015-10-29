@@ -14,8 +14,8 @@ process.nextTick(function(){
 });
 
 messenger.emit('message', "hello!");
-fs.stat(__filename, function(){
-    console.log(++pos + " stat");
+fs.readFile(__filename, function(){
+    console.log(++pos + " IO");
 });
 
 setTimeout(function(){
