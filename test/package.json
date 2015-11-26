@@ -9,7 +9,8 @@
   "devDependencies": {},
   "dependencies": {
     "async": "latest",
-    "color": "latest"
+    "color": "latest",
+    "connect": "latest"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
