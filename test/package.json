@@ -9,6 +9,7 @@
   "devDependencies": {},
   "dependencies": {
     "async": "latest",
+    "async-each": "latest",
     "color": "latest",
     "connect": "latest",
     "superagent": "latest"
