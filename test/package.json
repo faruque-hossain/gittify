@@ -11,7 +11,7 @@
     "async": "latest",
     "async-each": "latest",
     "color": "latest",
-    "connect": "latest",
+    "connect": "latest"
     "superagent": "latest"
   },
   "scripts": {
