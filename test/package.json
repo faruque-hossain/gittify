@@ -12,7 +12,6 @@
     "async-each": "latest",
     "color": "latest",
     "connect": "latest"
-    "superagent": "latest"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
