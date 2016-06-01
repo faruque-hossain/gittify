@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "Nur Rony <pro.nmrony@gmail.com> (http://nmrony.info/)",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
 }
