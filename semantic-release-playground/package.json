@@ -1,15 +1,24 @@
 {
   "name": "semantic-release-playground",
   "version": "1.2.0-beta.0",
+  "private": true,
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha index.test.js -w"
   },
   "keywords": [],
+  "repository": {
+   "type": "git",
+   "url": "git+https://github.com/nmrony/gittify.git"
+ },
   "author": "Nur Rony <pro.nmrony@gmail.com> (http://nmrony.info/)",
   "license": "MIT",
   "dependencies": {
     "unique-random-array": "1.0.0"
+  },
+  "devDependencies": {
+    "chai": "3.5.0",
+    "mocha": "2.5.3"
   }
 }
