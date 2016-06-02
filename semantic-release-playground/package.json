@@ -1,6 +1,6 @@
 {
   "name": "family-names",
-  "version":"0.0.0-semantically-released",
+  "version": "0.0.0-semantically-released",
   "description": "Semantic Release Playgorund",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,7 @@
   },
   "devDependencies": {
     "chai": "3.5.0",
+    "commitizen": "2.8.1",
     "mocha": "2.5.3",
     "semantic-release": "^4.3.5"
   }
