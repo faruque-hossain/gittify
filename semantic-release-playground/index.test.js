@@ -23,5 +23,13 @@ describe('family names', function () {
       var randomItem = family.random()
       expect(family.all).to.include(randomItem)
     })
+
+    it('returns a list of random items for a specific number', function () {
+      var randomItems = family.random(3)
+      expect(randomItems).to.have.length(3)
+      randomItems.forEach(function (item) {
+        expect(family.all).to.include(item)
+      })
+    })
   })
 })
